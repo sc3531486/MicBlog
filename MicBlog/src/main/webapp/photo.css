@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 雅黑;
+
+}
+body{
+    background:url("images/background.jpg");
+}
+.Wb_miniblog{
+    width: 80%;
+    height:100px;
+    margin: 0 auto;
+    border: 1px solid red;
+}
+.gn_logo,.gn_search_v2,.gn_position_nav,.gn_position_set{
+    float: left;
+}
+.gn_position li{
+    list-style:none; /* 将默认的列表符号去掉 */
+    float: left;
+    margin-left: 20px;
+}
+.gn_position a {
+    text-decoration:none;
+}
+.img1{
+    height:20px;
+    width: 20px;
+}
+.img1,.gn_search_v2>input{
+    float: left;
+    margin-top: 10px;
+}
+.gn_position_set>div{
+    float: left;
+    margin-left: 20px;
+}
+.gn_position_nav,.gn_position_set{
+    margin-top: 10px;
+}

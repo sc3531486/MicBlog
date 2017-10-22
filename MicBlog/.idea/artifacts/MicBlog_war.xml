@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MicBlog:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MicBlog.war">
+      <element id="artifact" artifact-name="MicBlog:war exploded" />
+    </root>
+  </artifact>
+</component>

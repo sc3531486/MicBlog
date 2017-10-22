@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MicBlog:war exploded">
+    <output-path>$PROJECT_DIR$/target/MicBlog</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MicBlog" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/MicBlog/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="MicBlog/web/Web" />
+    </root>
+  </artifact>
+</component>

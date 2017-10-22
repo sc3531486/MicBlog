@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="j包">
+    <CLASSES>
+      <root url="file://D:/java/Environment/j包" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/java/Environment/j包" recursive="false" />
+  </library>
+</component>
